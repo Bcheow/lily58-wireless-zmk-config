@@ -28,8 +28,6 @@
 &kp LCTRL       &kp Z   &kp X   &kp C         &kp V         &kp B   &kp MINUS    &kp EQUAL  &kp N   &kp M            &kp COMMA   &kp DOT  &kp FSLH  &kp ENTER
                                 &kp LEFT_WIN  &kp LEFT_ALT  &mo 1   &kp SPACE    &kp RET    &mo 2   &kp PRINTSCREEN  &bt BT_NXT
             >;
-
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         layer_1 {
