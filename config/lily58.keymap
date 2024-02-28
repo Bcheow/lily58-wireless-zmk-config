@@ -43,7 +43,7 @@
 
         layer_2 {
             bindings = <
-&trans        &kp F1  &kp F2    &kp F3    &kp F4     &kp F5                      &kp F6  &kp F7    &kp F8          &kp F9           &kp F10   &kp DEL
+&trans        &kp F1  &kp F2    &kp F3    &kp F4     &kp F5                      &kp F6  &kp F7    &kp F8          &kp F9           &kp F10   &kp INS
 &trans        &trans  &kp UP    &trans    &trans     &trans                      &trans  &trans    &kp PG_UP       &trans           &trans    &trans
 &kp CAPSLOCK  &kp LEFT  &kp DOWN  &kp RIGHT  &trans  &trans                      &trans  &kp HOME  &kp PG_DN       &kp END          &trans    &trans
 &trans        &trans  &trans    &trans    &trans     &trans  &kp F11    &kp F12  &trans  &trans    &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp PIPE  &trans
